@@ -21,7 +21,7 @@ var QUESTIONS = [
         answer: false,
     },
     {
-        text: '1+1*-(1+10)=-10',
+        text: '人間科学部は所沢にある',
         answer: true,
     },
     {
